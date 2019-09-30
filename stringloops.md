@@ -46,8 +46,8 @@ for(let i = 0; i < str2.length; i++) {
 **Puzzle #5**
 
 ```javascript
-let str1 = "12345";
-let str2 = "abcde";
+let str1 = "123";
+let str2 = "xyz";
 for(let i = 0; i < str1.length; i++) {
   for(let j = 0; j < str2.length; j++) {
     console.log(str1[i] + " " + str2[j]);  
